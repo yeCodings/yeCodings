@@ -14,7 +14,6 @@
 - 已GC开发者
 - 资深摸鱼砖家
 - 未来已至，努力搬砖
-- 成为一个不秃头的开发者
 
 #### :computer: Programming languages and tools: 
 <p>
